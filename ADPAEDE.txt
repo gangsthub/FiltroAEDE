@@ -1,10 +1,8 @@
 [Adblock Plus 2.0]
-! Redirect: https://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
 !
-!
-!  'Filtro Boicot a AEDE v.2.2.2' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
+!  'Filtro Boicot a AEDE v.2.2.3' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
 !    Last modified: Feb 24, 2014, 20:40 UTC
-!    Version: 2.2.2
+!    Version: 2.2.3
 !    License: Creative Commons; http://creativecommons.org/licenses/by-nc-sa/3.0/es/
 !
 !    Lista de dominios basada en Matiz.org (redirección a localhost de miembros de AEDE); http://www.matiz.org/dominios.txt
