@@ -9,7 +9,7 @@ Versión actual: 2.2.3
 Cómo añadir a AdBlock Plus:
 ====================
 
-Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior).
+Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior): https://adblockplus.org/es
 
 • Para añadir filtros manualmente:
 
