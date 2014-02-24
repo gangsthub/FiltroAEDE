@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+! Redirect: http://example.com/list.txt
 !
 !  'Filtro Boicot a AEDE v.2.2.2' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
 !    Last modified: Feb 24, 2014, 19:28 UTC
