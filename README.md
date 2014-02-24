@@ -19,9 +19,7 @@ Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior).
 
 • Para el añadir directamente o copiar código embebido:
 
-<a href="abp:subscribe?location=http%3A%2F%2Fraw.github.com%2Fgangsthub%2FFiltroAEDE%2Fmaster%2FADPAEDE.txt&title=Boicot%20a%20AEDE
-">Boicot a AEDE</a>
-
+abp:subscribe?location=http%3A%2F%2Fraw.github.com%2Fgangsthub%2FFiltroAEDE%2Fmaster%2FADPAEDE.txt&title=Boicot%20a%20AEDE
 
 Funcionamiento:
 ====================
