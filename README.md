@@ -7,14 +7,20 @@ Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE.
 Cómo añadir a AdBlock Plus:
 ====================
 
-Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior)
+Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior).
 
-Para añadir filtros manualmente:
+• Para añadir filtros manualmente:
 
 - En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
-- Copia la URL donde lo pida.
+- Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
 - Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para tener presentes las actualizaciones.
 - Si todo va bien, debería funcionar
+
+
+• Para el añadir directamente o copiar código embebido:
+
+<a href="abp:subscribe?location=http%3A%2F%2Fraw.github.com%2Fgangsthub%2FFiltroAEDE%2Fmaster%2FADPAEDE.txt&title=Boicot%20a%20AEDE
+">Boicot a AEDE</a>
 
 
 Funcionamiento:
