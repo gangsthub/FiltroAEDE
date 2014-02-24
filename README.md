@@ -28,8 +28,7 @@ FB AEDE v.2.2.3 se compone de dos partes o listas:
 - Por eso es necesaria la segunda lista, bloquea todos los elementos (bajo etiquetas div y en algunas el body entero u otras secciones, depende de cómo estén escritas).
 
 
-- Está probado con JS desactivado en todas y activado solo en algunas.
-
-
-GRACIAS
-##############
+Notas:
+====================
+- Está probado con JS desactivado en todas y activado solo en algunas. 
+- Gracias por leerme.
