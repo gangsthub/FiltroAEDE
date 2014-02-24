@@ -4,7 +4,7 @@ FiltroAEDE
 Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE.
 
 
-Cómo añadir a ABP:
+Cómo añadir a AdBlock Plus:
 ====================
 
 Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior)
