@@ -1,7 +1,7 @@
 FiltroAEDE
 ==========
 
-Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE.
+Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE. 
 
 
 Cómo añadir a AdBlock Plus:
@@ -16,10 +16,6 @@ Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior).
 - Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para tener presentes las actualizaciones.
 - Si todo va bien, debería funcionar
 
-
-• Para el añadir directamente o copiar código embebido:
-
-abp:subscribe?location=http%3A%2F%2Fraw.github.com%2Fgangsthub%2FFiltroAEDE%2Fmaster%2FADPAEDE.txt&title=Boicot%20a%20AEDE
 
 Funcionamiento:
 ====================
