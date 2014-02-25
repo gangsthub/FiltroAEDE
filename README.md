@@ -15,6 +15,7 @@ Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior): h
 
 - En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
 - Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
+    - Nota: no funciona con 'https'.
 - Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para tener presentes las actualizaciones.
 - Si todo va bien, debería funcionar:
 
