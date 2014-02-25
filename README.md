@@ -33,4 +33,5 @@ Notas:
 ====================
 - Está probado con JS desactivado en todas y activado solo en algunas. 
 - Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
-##### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
+
+#### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
