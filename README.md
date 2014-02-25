@@ -38,7 +38,7 @@ Notas:
 
 #### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
 
-[tener instalado AdBlock Plus o actualizado]: https://adblockplus.org/es
+[tener instalado AdBlock Plus o actualizado]:https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
 
 
