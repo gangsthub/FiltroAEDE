@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-!
+! Title: Boicot a AEDE v.2.2.4
 !  'Boicot a AEDE v.2.2.3' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
 !    Last modified: Feb 24, 2014, 20:40 UTC
 !    Version: 2.2.3
