@@ -7,11 +7,11 @@ Versión actual: 2.2.4
 
 
 Cómo añadir a AdBlock Plus:
-====================
+----------
 
-Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior): https://adblockplus.org/es
+Primero necesitas [tener instalado AdBlock Plus o actualizado] (2.0 o superior)
 
-• Para añadir filtros manualmente:
+* Para añadir filtros manualmente:
 
 - En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
 - Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
@@ -21,7 +21,7 @@ Primero necesitas tener instalado AdBlock Plus o actualizado (2.0 o superior): h
 
 
 Funcionamiento:
-====================
+----------
 
 FB AEDE v.2.2.3 se compone de dos partes o listas:
 
@@ -30,11 +30,15 @@ FB AEDE v.2.2.3 se compone de dos partes o listas:
 
 
 Notas:
-====================
+----------
 - Está probado con JS desactivado en todas y activado solo en algunas. 
 - Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 
+
+
 #### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
 
+[tener instalado AdBlock Plus o actualizado]: https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
+
 
