@@ -11,7 +11,7 @@ Cómo añadir a AdBlock Plus:
 
 Primero necesitas [tener instalado AdBlock Plus o actualizado] (2.0 o superior)
 
-* Para añadir filtros manualmente:
+• Para añadir filtros manualmente:
 
 - En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
 - Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
