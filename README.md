@@ -9,7 +9,7 @@ Versión actual: 2.2.4
 Cómo añadir a AdBlock Plus:
 ----------
 
-Primero necesitas [tener instalado AdBlock Plus o actualizado] (2.0 o superior)
+Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 
 • Para añadir filtros manualmente:
 
@@ -38,7 +38,7 @@ Notas:
 
 #### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
 
-[tener instalado AdBlock Plus o actualizado]:https://adblockplus.org/es
+[tener instalado AdBlock Plus o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
 
 
