@@ -35,3 +35,6 @@ Notas:
 - Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 
 #### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
+
+[@gangsthub]:https://github.com/gangsthub
+
