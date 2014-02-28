@@ -1,7 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Boicot a AEDE v.2.3
 ! Version: 2.3
-! Homepage: https://github.com/gangsthub/FiltroAEDE/blob/master/ADPAEDE.txt
 !  'Boicot a AEDE v.2.3' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
 !    Last modified: Feb 28, 2014, 12:30 UTC
 !    License: Creative Commons; http://creativecommons.org/licenses/by-nc-sa/3.0/es/
