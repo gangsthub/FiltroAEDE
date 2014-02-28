@@ -31,7 +31,7 @@ FB AEDE v.2.2.3 se compone de dos partes o listas:
 
 Notas:
 ----------
-- MUY recomendado tener activadas otras listas como easylist, antisocial, NAUSCOPICOS: [listado completo]
+- MUY recomendado tener activadas otras listas como EasyList, Antisocial, Nauscopicos: [listado completo]
 - Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 
 Agradecimientos:
@@ -44,5 +44,3 @@ Agradecimientos:
 [tener instalado AdBlock Plus o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
 [listado completo]:https://adblockplus.org/en/subscriptions
-
-
