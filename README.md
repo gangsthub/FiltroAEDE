@@ -25,7 +25,7 @@ Funcionamiento:
 
 FiltroAEDE se compone de dos partes o listas:
 
-- La primera lista bloquea de manera general los dominos y subdominios de los miembros de AEDE con ABP y los scripts. Si solo estuviera esta lista, en algunas, se presentarían las webs y su contenido como si se hubiera borrado la hoja de estilo.
+- La primera lista bloquea de manera general los dominos y subdominios de los miembros de AEDE con ABP. Si solo estuviera esta lista, en algunas, se presentarían las webs y su contenido como si se hubiera borrado la hoja de estilo.
 - Por eso es necesaria la segunda lista, bloquea el cuerpo de la página.
 
 
