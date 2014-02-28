@@ -3,15 +3,15 @@
 ! Version: 2.3
 ! Homepage: http://github.com/gangsthub/FiltroAEDE
 !  'Boicot a AEDE v.2.3' (Deja en blanco las paginas de los miembros de AEDE / AEDE members webpages go blank)
-!    Last modified: Feb 28, 2014, 12:30 UTC
+!    Last modified: Feb 28, 2014, 13:30 UTC
 !    License: Creative Commons; http://creativecommons.org/licenses/by-nc-sa/3.0/es/
 !
 !    Lista de dominios basada en Matiz.org (redirección a localhost de miembros de AEDE); http://www.matiz.org/dominios.txt
 !    Estructura de filtros basada en FILTROS NAUSCOPICOS; http://abp.mozilla-hispano.org/nauscopio/filtros.txt
-!    Actualizada con lista de medios http://marcaspa.in/filtros.txt
+!    Actualizada con lista de medios: http://marcaspa.in/filtros.txt
 !
 !
-!------ [Reglas de bloqueo masivo] / massive blocking ------!
+!------ [Reglas de bloqueo masivo incluyendo scripts] / massive blocking including scripts ------!
 ||1824.es^$script
 ||11870.com^$script
 ||abc.es^$script
