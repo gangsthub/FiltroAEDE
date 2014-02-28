@@ -31,7 +31,7 @@ FB AEDE v.2.2.3 se compone de dos partes o listas:
 
 Notas:
 ----------
-- Está probado con JS desactivado en todas y activado solo en algunas. 
+- MUY recomendado tener activadas otras listas: [listado completo]
 - Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 
 
@@ -40,5 +40,6 @@ Notas:
 
 [tener instalado AdBlock Plus o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
+[listado completo]:https://adblockplus.org/en/subscriptions
 
 
