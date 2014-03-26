@@ -38,7 +38,7 @@ Agradecimientos:
 ----------
 - http://marcaspa.in/
 - https://twitter.com/CanonAEDE_NO
-- FiltroAEDE en Pobre.tk
+- Artículo de FiltroAEDE
 
 Must Check:
 ----------
@@ -51,4 +51,4 @@ Must Check:
 [tener instalado AdBlock Plus o actualizado (2.0 o superior)]:https://adblockplus.org/es
 [@gangsthub]:https://github.com/gangsthub
 [listado completo]:https://adblockplus.org/en/subscriptions
-[FiltroAEDE en Pobre.tk]:http://pobre.tk/p/i/c/2-filtro-aede
+[Artículo]:http://pobre.tk/p/i/c/2-filtro-aede
