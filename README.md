@@ -42,7 +42,7 @@ Agradecimientos:
 Must Check:
 ----------
 - https://twitter.com/CoalicionProInt
-- - [Artículo] de FiltroAEDE en Pobre.TK
+- [Artículo] de FiltroAEDE en Pobre.TK
 
 *Gracias ;)*
 
