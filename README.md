@@ -38,11 +38,11 @@ Agradecimientos:
 ----------
 - http://marcaspa.in/
 - https://twitter.com/CanonAEDE_NO
-- [Artículo] de FiltroAEDE en Pobre.TK
 
 Must Check:
 ----------
 - https://twitter.com/CoalicionProInt
+- - [Artículo] de FiltroAEDE en Pobre.TK
 
 *Gracias ;)*
 
