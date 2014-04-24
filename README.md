@@ -38,7 +38,7 @@ Agradecimientos:
 ----------
 - http://marcaspa.in/
 - https://twitter.com/CanonAEDE_NO
-- [Artículo] de FiltroAEDE
+- [Artículo] de FiltroAEDE en Pobre.TK
 
 Must Check:
 ----------
