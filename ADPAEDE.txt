@@ -31,6 +31,7 @@
 ||caracol.com.co^$script
 ||caracol1260.com^$script
 ||castellolopesmultimedia.com^$script
+||cincodias.com^$script
 ||cinemania.es^$script
 ||clix.pt^$script
 ||colorincolorradio.com^$script
@@ -235,6 +236,7 @@ canarias7.es##body
 caracol.com.co##body
 caracol1260.com##body
 castellolopesmultimedia.com##body
+cincodias.com##body
 cinemania.es##body
 clix.pt##body
 colorincolorradio.com##body
