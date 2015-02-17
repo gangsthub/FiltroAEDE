@@ -3,7 +3,7 @@ FiltroAEDE
 
 Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE.
 
-Versión actual: 2.3
+Versión actual: 2.3.1
 
 
 Cómo añadir a AdBlock Plus:
