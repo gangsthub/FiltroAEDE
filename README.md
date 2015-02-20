@@ -43,9 +43,9 @@ Agradecimientos:
 
 Must Check:
 ----------
-- [Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
+- [Lista de medios alternativos]
 - [Artículo] de FiltroAEDE en Pobre.TK
-- [Artículo de Enrique Dans]:http://www.enriquedans.com/2014/11/por-que-es-importante-boicotear-los-medios-de-aede.html
+- [Artículo de Enrique Dans]
 
 *Gracias ;)*
 
@@ -55,4 +55,6 @@ Must Check:
 [@gangsthub]:https://github.com/gangsthub
 [listado completo]:https://adblockplus.org/en/subscriptions
 [@j3j5]:https://github.com/j3j5
+[Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
 [Artículo]:http://pobre.tk/p/i/c/2-filtro-aede
+[Artículo de Enrique Dans]:http://www.enriquedans.com/2014/11/por-que-es-importante-boicotear-los-medios-de-aede.html
