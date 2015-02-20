@@ -43,8 +43,9 @@ Agradecimientos:
 
 Must Check:
 ----------
-- https://twitter.com/CoalicionProInt
+- [Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
 - [Artículo] de FiltroAEDE en Pobre.TK
+- [Artículo de Enrique Dans]:http://www.enriquedans.com/2014/11/por-que-es-importante-boicotear-los-medios-de-aede.html
 
 *Gracias ;)*
 
