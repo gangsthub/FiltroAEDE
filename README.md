@@ -28,6 +28,7 @@ Cómo añadir a *uBlock*:
 ----------
 
 Primero necesitas [tener instalado *uBlock*].
+No importa, si eliges (y tu navegador lo permite) *uBlock Origin* (Fork de *uBlock*).
 
 • Para añadir filtros manualmente:
 
