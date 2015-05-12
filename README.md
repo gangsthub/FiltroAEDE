@@ -1,7 +1,7 @@
 FiltroAEDE
 ==========
 
-Lista de Filtros para [Adblock Plus](/#ADP): Boicot a los adscritos a AEDE.
+Lista de Filtros para [Adblock Plus](https://github.com/gangsthub/FiltroAEDE#ADP): Boicot a los adscritos a AEDE.
 
 Versión actual: 2.3.1
 
