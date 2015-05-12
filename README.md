@@ -5,7 +5,7 @@ Boicot a los adscritos a AEDE.
 
 Lista de Filtros para:
 - [*Adblock Plus*](https://github.com/gangsthub/FiltroAEDE#c%C3%B3mo-a%C3%B1adir-a-adblock-plus).
-- [*uBlock*](https://github.com/gangsthub/FiltroAEDE/blob/master/README.md#c%C3%B3mo-a%C3%B1adir-a-ublock).
+- [*"^uBlock"*](https://github.com/gangsthub/FiltroAEDE/blob/master/README.md#c%C3%B3mo-a%C3%B1adir-a-ublock).
 
 
 Versión actual: 2.3.1
