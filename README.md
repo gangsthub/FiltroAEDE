@@ -53,9 +53,9 @@ FiltroAEDE [se compone de] dos partes o listas:
 
 Notas adicionales:
 ----------
-- MUY recomendado tener activadas otras listas como EasyList, Antisocial, Nauscopicos: [listado completo]
-- Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 - Entre *AdBlock* y *uBlock*, personalmente elijo *uBlock*, que consume menos recursos y tiene algunas funcionalidades del estilo de *HTTP SwitchBoard* y otras nuevas (en modo "Usuario Avanzado").
+
+- Gracias por leer el README. Infórmate con medios libres o no adscritos a AEDE.
 
 Agradecimientos:
 ----------
