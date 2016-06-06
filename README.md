@@ -11,7 +11,7 @@ Lista de Filtros para:
 Versión actual: 2.3.1
 
 
-Cómo añadir a *AdBlock Plus*:
+Cómo añadir a *AdBlock Plus* / *Adblock EDGE*:
 ----------
 
 Primero necesitas [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)].
@@ -21,6 +21,8 @@ Primero necesitas [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)
 - En las preferencias de *AdBlock* puedes gestionar tus listas y añadir nuevas. 
 - Copia la *URL* donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
     - *Nota: no funciona con el esquema 'https'!*
+- En *Adblock EDGE*, sí que está comprobado que funciona con *https*:
+    - https://raw.githubusercontent.com/gangsthub/FiltroAEDE/master/ADPAEDE.txt
 - Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para que salga bien la primera vez que aparece. El título (con la versión) se actualizará automáticamente si se le da al botón 'Actualizar'.
 - (Si necesitas más detalles en las instrucciones, en pobre.tk lo explican [en el siguiente artículo](http://pobre.tk/p/i/c/2-filtro-aede)).
 
