@@ -27,8 +27,7 @@ Primero necesitas [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)
 Cómo añadir a *uBlock*:
 ----------
 
-Primero necesitas [tener instalado *uBlock*].
-No importa, si eliges (y tu navegador lo permite) *uBlock Origin* (*Fork* de *uBlock*).
+Primero necesitas [tener instalado *uBlock*]. (Recomiendo: *uBlock Origin*.)
 
 • Para añadir filtros manualmente:
 
@@ -75,7 +74,7 @@ Must Check:
 #### Cualquier duda, contactar con el mail de mi perfil: [@gangsthub]
 [se compone de]:https://github.com/gangsthub/FiltroAEDE/blob/master/ADPAEDE.txt
 [tener instalado *AdBlock Plus* o actualizado (2.0 o superior)]:https://adblockplus.org/es
-[tener instalado *uBlock*]:https://chrismatic.io/ublock/
+[tener instalado *uBlock*]:https://github.com/gorhill/uBlock#installation
 [listado completo]:https://adblockplus.org/en/subscriptions
 [@j3j5]:https://github.com/j3j5
 [Lista de medios alternativos]:http://wiki.15m.cc/wiki/Lista_de_medios_de_comunicaci%C3%B3n_alternativos
